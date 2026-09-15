@@ -26,9 +26,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: bhaveshlakhmani25-ui
-          # Customizing the snake color to electric cyan and the grid to neon purple/cyan
+          # Customizing the snake color and grid to Midnight Indigo / Deep Space aesthetic
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#00e5ff&color_dots=#090a0f,#1a1325,#6b13a3,#b026ff,#00e5ff
+            dist/github-snake-dark.svg?color_snake=#67E8F9&color_dots=#17213A,#26324A,#344877,#A78BFA,#67E8F9
             
       - name: Push github-snake-dark.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

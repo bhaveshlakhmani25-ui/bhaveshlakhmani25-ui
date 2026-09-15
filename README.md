@@ -5,7 +5,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="assets/shard-divider.svg" width="100%" />
+  <img src="assets/divider.svg" width="100%" />
 </div>
 
 <br/><br/>
@@ -39,14 +39,14 @@
       <br/>
       <b>AI AUTOMATION</b><br/>
       Designing workflows that let software handle real-world tasks autonomously.<br/><br/>
-      <code>STATUS // ACTIVE</code>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
     <td width="50%">
       <br/>
       <b>VOICE AI</b><br/>
       Creating conversational, low-latency interfaces.<br/><br/>
-      <code>STATUS // ACTIVE</code>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
   </tr>
@@ -55,14 +55,14 @@
       <br/>
       <b>RAG SYSTEMS</b><br/>
       Building context-aware, data-driven LLM applications.<br/><br/>
-      <code>STATUS // ACTIVE</code>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
     <td width="50%">
       <br/>
       <b>FULL-STACK AI</b><br/>
       Integrating models into scalable web architectures.<br/><br/>
-      <code>STATUS // ACTIVE</code>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
   </tr>
@@ -80,7 +80,7 @@
       <b><a href="#">Study Mirror AI</a></b><br/>
       AI-powered student productivity and study platform.<br/><br/>
       <code>STACK:</code> Next.js · TypeScript · LLM APIs<br/>
-      <code>STATUS // DEPLOYED</code>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // DEPLOYED</code>
       <br/><br/>
     </td>
     <td width="50%">
@@ -88,7 +88,7 @@
       <b><a href="#">DentalPlan AI</a></b><br/>
       AI treatment-planning copilot concept for dentists.<br/><br/>
       <code>STACK:</code> Python · RAG · React<br/>
-      <code>STATUS // PROTOTYPE</code>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // PROTOTYPE</code>
       <br/><br/>
     </td>
   </tr>
@@ -98,7 +98,7 @@
       <b><a href="#">AI Voice Agent</a></b><br/>
       Conversational voice agent interface for hands-free automation.<br/><br/>
       <code>STACK:</code> Voice AI · Node.js · WebSockets<br/>
-      <code>STATUS // IN DEVELOPMENT</code>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // IN DEVELOPMENT</code>
       <br/><br/>
     </td>
     <td width="50%">
@@ -106,7 +106,7 @@
       <b><a href="#">Bharat Beyond</a></b><br/>
       AI-powered tourism intelligence and destination balancing.<br/><br/>
       <code>STACK:</code> Supabase · Next.js · Tailwind<br/>
-      <code>STATUS // SIH PROJECT</code>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // SIH PROJECT</code>
       <br/><br/>
     </td>
   </tr>
@@ -139,7 +139,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="assets/shard-divider.svg" width="100%" />
+  <img src="assets/divider.svg" width="100%" />
 </div>
 
 <br/><br/>
