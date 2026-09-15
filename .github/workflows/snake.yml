@@ -25,7 +25,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: bhaveshlakhmani25
+          github_user_name: bhaveshlakhmani25-ui
           # Customizing the snake color to electric cyan and the grid to neon purple/cyan
           outputs: |
             dist/github-snake-dark.svg?color_snake=#00e5ff&color_dots=#090a0f,#1a1325,#6b13a3,#b026ff,#00e5ff

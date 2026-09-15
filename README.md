@@ -116,17 +116,17 @@ I am a BTech CSE (AI/ML) student focused on building intelligent products and au
 ### `> _ TELEMETRY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshlakhmani25&show_icons=true&hide_border=true&bg_color=090a0f&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_title=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshlakhmani25&hide_border=true&background=090a0f&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&currStreakNum=f0f6fc&sideNums=f0f6fc&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshlakhmani25-ui&show_icons=true&hide_border=true&bg_color=090a0f&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshlakhmani25-ui&hide_border=true&background=090a0f&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&currStreakNum=f0f6fc&sideNums=f0f6fc&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshlakhmani25/bhaveshlakhmani25/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshlakhmani25/bhaveshlakhmani25/output/dist/github-snake-dark.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/bhaveshlakhmani25/bhaveshlakhmani25/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/dist/github-snake-dark.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/dist/github-snake-dark.svg" />
   </picture>
 </div>
 
