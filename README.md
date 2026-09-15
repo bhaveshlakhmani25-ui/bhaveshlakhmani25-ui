@@ -124,9 +124,9 @@ I am a BTech CSE (AI/ML) student focused on building intelligent products and au
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/dist/github-snake-dark.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/github-snake-dark.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/bhaveshlakhmani25-ui/bhaveshlakhmani25-ui/output/github-snake-dark.svg" />
   </picture>
 </div>
 
