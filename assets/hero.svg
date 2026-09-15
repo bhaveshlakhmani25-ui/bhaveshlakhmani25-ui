@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="320">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508" />
+      <stop offset="100%" stop-color="#090a0f" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="cyber-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00e5ff" stroke-width="0.5" stroke-opacity="0.07" />
+    </pattern>
+
+    <!-- Glass Card Gradient -->
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.05)" />
+      <stop offset="100%" stop-color="rgba(255, 255, 255, 0.01)" />
+    </linearGradient>
+    
+    <linearGradient id="glass-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(0, 229, 255, 0.4)" />
+      <stop offset="50%" stop-color="rgba(176, 38, 255, 0.1)" />
+      <stop offset="100%" stop-color="rgba(0, 229, 255, 0.1)" />
+    </linearGradient>
+
+    <!-- Text Gradients -->
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#c9d1d9" />
+    </linearGradient>
+    
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff" />
+      <stop offset="100%" stop-color="#b026ff" />
+    </linearGradient>
+
+    <style>
+      .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      
+      .terminal-text { font-size: 11px; fill: #00e5ff; opacity: 0.7; }
+      .terminal-pulse { animation: terminal-blink 2s infinite; }
+      
+      .hero-title { font-size: 46px; font-weight: 800; fill: url(#title-grad); letter-spacing: 2px; }
+      .hero-subtitle { font-size: 14px; font-weight: 600; fill: #00e5ff; letter-spacing: 6px; }
+      .hero-desc { font-size: 15px; font-weight: 400; fill: #8b949e; letter-spacing: 0.5px; }
+      
+      .grid-anim {
+        animation: grid-move 20s linear infinite;
+      }
+      
+      .glass-glow {
+        filter: drop-shadow(0 0 25px rgba(0, 229, 255, 0.15));
+      }
+
+      @keyframes grid-move {
+        from { transform: translateY(0); }
+        to { transform: translateY(40px); }
+      }
+      
+      @keyframes terminal-blink {
+        0%, 100% { opacity: 0.2; }
+        50% { opacity: 0.8; }
+      }
+    </style>
+  </defs>
+
+  <!-- Deep Dark Background -->
+  <rect width="800" height="320" fill="url(#bg)" />
+
+  <!-- Moving Cyberpunk Grid -->
+  <g class="grid-anim">
+    <rect x="-40" y="-80" width="880" height="480" fill="url(#cyber-grid)" />
+  </g>
+  
+  <!-- Subtle Purple Ambient Glow Behind Glass -->
+  <circle cx="400" cy="160" r="120" fill="#b026ff" opacity="0.1" filter="blur(40px)" />
+
+  <!-- Glass Terminal Card -->
+  <g class="glass-glow" transform="translate(60, 40)">
+    <!-- Card Background & Border -->
+    <rect x="0" y="0" width="680" height="240" rx="12" fill="url(#glass)" stroke="url(#glass-border)" stroke-width="1.5" />
+    
+    <!-- Terminal Header (Mac-style dots) -->
+    <rect x="0" y="0" width="680" height="30" rx="12" fill="rgba(255,255,255,0.02)" />
+    <circle cx="20" cy="15" r="4.5" fill="#ff5f56" opacity="0.8" />
+    <circle cx="35" cy="15" r="4.5" fill="#ffbd2e" opacity="0.8" />
+    <circle cx="50" cy="15" r="4.5" fill="#27c93f" opacity="0.8" />
+    
+    <!-- Terminal Tab Text -->
+    <text x="340" y="20" class="font-mono terminal-text" text-anchor="middle" style="font-size:10px; opacity: 0.5;">bhavesh@ai-builder:~</text>
+
+    <!-- Terminal Content Area -->
+    <g transform="translate(40, 70)">
+      <!-- System init text -->
+      <text x="0" y="0" class="font-mono terminal-text terminal-pulse">> SYSTEM_INIT: TRUE</text>
+      <text x="0" y="16" class="font-mono terminal-text" style="opacity:0.4">> LOADING_NEURAL_MODULES... 100%</text>
+      
+      <!-- Identity -->
+      <text x="0" y="55" class="font-sans hero-subtitle">HELLO, WORLD. I AM</text>
+      <text x="0" y="100" class="font-sans hero-title">BHAVESH LAKHMANI</text>
+      
+      <!-- Cyberpunk Divider -->
+      <rect x="0" y="115" width="400" height="2" fill="url(#accent-grad)" />
+      
+      <!-- Tagline -->
+      <text x="0" y="145" class="font-mono" style="font-size: 13px; fill: #f0f6fc; font-weight: 600; letter-spacing: 1px;">AI BUILDER • DEVELOPER • AUTOMATION</text>
+      
+      <!-- Desc -->
+      <text x="0" y="165" class="font-mono hero-desc" style="font-size: 12px; opacity: 0.7;">> Executing: build_intelligent_products.sh</text>
+    </g>
+    
+    <!-- Decorative Tech Elements in Card Right Side -->
+    <g transform="translate(520, 60)">
+      <rect x="0" y="0" width="120" height="150" fill="none" stroke="rgba(0, 229, 255, 0.1)" stroke-width="1" />
+      <path d="M 0 30 L 120 30 M 0 60 L 120 60 M 0 90 L 120 90 M 0 120 L 120 120" stroke="rgba(0, 229, 255, 0.05)" />
+      <path d="M 30 0 L 30 150 M 60 0 L 60 150 M 90 0 L 90 150" stroke="rgba(0, 229, 255, 0.05)" />
+      
+      <!-- Animated scanline inside the tech box -->
+      <rect x="0" y="0" width="120" height="10" fill="rgba(0, 229, 255, 0.2)">
+        <animate attributeName="y" values="0;140;0" dur="4s" repeatCount="indefinite" />
+      </rect>
+      
+      <circle cx="60" cy="75" r="25" fill="none" stroke="rgba(176, 38, 255, 0.4)" stroke-width="2" stroke-dasharray="4 4">
+        <animateTransform attributeName="transform" type="rotate" from="0 60 75" to="360 60 75" dur="10s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="60" cy="75" r="15" fill="none" stroke="rgba(0, 229, 255, 0.6)" stroke-width="2">
+        <animateTransform attributeName="transform" type="rotate" from="360 60 75" to="0 60 75" dur="5s" repeatCount="indefinite" />
+      </circle>
+      
+      <text x="60" y="170" class="font-mono" style="font-size:9px; fill:rgba(0,229,255,0.5);" text-anchor="middle">STS: ONLINE</text>
+    </g>
+  </g>
+  
+  <!-- Outer decorative corner brackets -->
+  <path d="M 40,20 L 20,20 L 20,40" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.5" />
+  <path d="M 760,20 L 780,20 L 780,40" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.5" />
+  <path d="M 40,300 L 20,300 L 20,280" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.5" />
+  <path d="M 760,300 L 780,300 L 780,280" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.5" />
+</svg>
