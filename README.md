@@ -5,11 +5,7 @@
 <br/><br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/aeroshards-dark.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/aeroshards-light.jpg" />
-    <img alt="AeroShards Atmosphere" src="assets/aeroshards-dark.jpg" width="100%" style="border-radius: 8px;" />
-  </picture>
+  <img src="assets/shard-divider.svg" width="100%" />
 </div>
 
 <br/><br/>
@@ -143,11 +139,7 @@
 <br/><br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/aeroshards-dark.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/aeroshards-light.jpg" />
-    <img alt="AeroShards Atmosphere" src="assets/aeroshards-dark.jpg" width="100%" style="border-radius: 8px;" />
-  </picture>
+  <img src="assets/shard-divider.svg" width="100%" />
 </div>
 
 <br/><br/>
