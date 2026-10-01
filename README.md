@@ -16,13 +16,8 @@
   <tr>
     <td width="100%">
       <br/>
-      I'm <b>Bhavesh Lakhmani</b> — a BTech CSE (AI/ML) student building <code>AI systems</code>, automation workflows and full-stack products.
-      <br/><br/>
-      I learn by building, experimenting and shipping real projects.
-      <br/><br/>
-      <code>FOCUS</code>
-      <br/>
-      AI · AUTOMATION · AGENTS · RAG · VOICE AI
+      I'm Bhavesh Lakhmani, a B.Tech CSE (AI) student focused on building AI products and continuously learning new programming languages and technologies.<br/><br/>
+      My interests span AI, automation, agents, RAG, and voice AI, with a focus on turning ideas into practical software.
       <br/><br/>
     </td>
   </tr>
@@ -38,14 +33,14 @@
     <td width="50%">
       <br/>
       <b>AI AUTOMATION</b><br/>
-      Designing workflows that let software handle real-world tasks autonomously.<br/><br/>
+      Building intelligent workflows and autonomous systems.<br/><br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
     <td width="50%">
       <br/>
       <b>VOICE AI</b><br/>
-      Creating conversational, low-latency interfaces.<br/><br/>
+      Exploring conversational and real-time voice applications.<br/><br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
@@ -54,14 +49,14 @@
     <td width="50%">
       <br/>
       <b>RAG SYSTEMS</b><br/>
-      Building context-aware, data-driven LLM applications.<br/><br/>
+      Building context-aware AI applications.<br/><br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
     <td width="50%">
       <br/>
       <b>FULL-STACK AI</b><br/>
-      Integrating models into scalable web architectures.<br/><br/>
+      Integrating AI into complete, usable products.<br/><br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
@@ -77,10 +72,10 @@
   <tr>
     <td width="50%">
       <br/>
-      <b><a href="#">Study Mirror AI</a></b><br/>
-      AI-powered student productivity and study platform.<br/><br/>
-      <code>STACK:</code> Next.js · TypeScript · LLM APIs<br/>
-      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // DEPLOYED</code>
+      <b><a href="#">Traffic Pulse AI</a></b><br/>
+      [Description pending]<br/><br/>
+      <code>STACK:</code> [Stack pending]<br/>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
     <td width="50%">
@@ -95,18 +90,18 @@
   <tr>
     <td width="50%">
       <br/>
-      <b><a href="#">AI Voice Agent</a></b><br/>
-      Conversational voice agent interface for hands-free automation.<br/><br/>
-      <code>STACK:</code> Voice AI · Node.js · WebSockets<br/>
-      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // IN DEVELOPMENT</code>
-      <br/><br/>
-    </td>
-    <td width="50%">
-      <br/>
       <b><a href="#">Bharat Beyond</a></b><br/>
       AI-powered tourism intelligence and destination balancing.<br/><br/>
       <code>STACK:</code> Supabase · Next.js · Tailwind<br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // SIH PROJECT</code>
+      <br/><br/>
+    </td>
+    <td width="50%">
+      <br/>
+      <b><a href="#">Portfolio</a></b><br/>
+      [Description pending]<br/><br/>
+      <code>STACK:</code> [Stack pending]<br/>
+      <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
   </tr>
@@ -120,7 +115,7 @@
 <table width="100%">
   <tr>
     <td width="25%"><b>LANGUAGES</b></td>
-    <td width="75%"><code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code></td>
+    <td width="75%"><code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Java</code> · <code>C</code></td>
   </tr>
   <tr>
     <td width="25%"><b>FRONTEND</b></td>
@@ -167,12 +162,38 @@
 
 <table width="100%">
   <tr>
-    <td width="15%"><code>2026</code></td>
-    <td width="85%"><b>SMART INDIA HACKATHON</b><br/>Bharat Beyond</td>
+    <td width="15%"><code>CURRENT</code></td>
+    <td width="85%"><b>NEURON CLUB</b><br/>Tech Lead</td>
+  </tr>
+</table>
+
+<br/><br/>
+
+### `>_ HACKATHONS`
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>Vivekananda Innovation Hackathon</b><br/>
+      <code>PARTICIPANT</code>
+    </td>
+    <td width="50%">
+      <b>IBM Bob 2 Hackathon</b><br/>
+      <code>PARTICIPANT</code>
+    </td>
   </tr>
   <tr>
-    <td width="15%"><code>2026</code></td>
-    <td width="85%"><b>NEURON CLUB</b><br/>Outreach & Community</td>
+    <td width="50%">
+      <br/>
+      <b>Smart India Hackathon</b><br/>
+      <code>PARTICIPANT</code>
+    </td>
+    <td width="50%">
+      <br/>
+      <b>Hack Divengers 2.0</b><br/>
+      <code>PARTICIPANT</code>
+    </td>
   </tr>
 </table>
 
