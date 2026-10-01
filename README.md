@@ -233,12 +233,21 @@
 ### `>_ GITHUB ACTIVITY`
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshlakhmani25-ui&bg_color=11182B&title_color=F4F7FF&text_color=A7B0C3&icon_color=67E8F9&border_color=26324A&hide_border=false&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlakhmani25-ui&layout=compact&bg_color=11182B&title_color=F4F7FF&text_color=A7B0C3&border_color=26324A&hide_border=false" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=bhaveshlakhmani25-ui&theme=dark&background=11182B&border=26324A&currStreakNum=F4F7FF&currStreakLabel=A7B0C3&sideNums=F4F7FF&sideLabels=A7B0C3&dates=69758C&ring=67E8F9&fire=67E8F9" alt="GitHub Streak" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=bhaveshlakhmani25-ui&bg_color=11182B&title_color=F4F7FF&text_color=A7B0C3&icon_color=67E8F9&border_color=26324A&hide_border=false&show_icons=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlakhmani25-ui&layout=compact&bg_color=11182B&title_color=F4F7FF&text_color=A7B0C3&border_color=26324A&hide_border=false" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=bhaveshlakhmani25-ui&theme=dark&background=11182B&border=26324A&currStreakNum=F4F7FF&currStreakLabel=A7B0C3&sideNums=F4F7FF&sideLabels=A7B0C3&dates=69758C&ring=67E8F9&fire=11182B&stroke=11182B&hide_border=false" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
