@@ -1,0 +1,5 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" rx="8" ry="8" fill="#11182B" stroke="#67E8F9" stroke-width="1.5" stroke-opacity="0.5"/>
+  <text x="50%" y="46%" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-weight="bold" font-size="24" fill="#F4F7FF" text-anchor="middle" dominant-baseline="middle">AI BUILDER</text>
+  <text x="50%" y="58%" font-family="Courier New, monospace" font-size="12" fill="#A7B0C3" text-anchor="middle" dominant-baseline="middle">BHAVESH LAKHMANI</text>
+</svg>

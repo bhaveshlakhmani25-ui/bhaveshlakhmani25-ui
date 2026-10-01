@@ -22,7 +22,7 @@
       <br/><br/>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/bhavesh-avatar.png" alt="Bhavesh Lakhmani" width="300" />
+      <img src="assets/avatar-placeholder.svg" alt="AI Builder - Bhavesh Lakhmani" width="300" />
     </td>
   </tr>
 </table>
