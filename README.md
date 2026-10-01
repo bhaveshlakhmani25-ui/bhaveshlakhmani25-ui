@@ -14,12 +14,15 @@
 
 <table width="100%">
   <tr>
-    <td width="100%">
+    <td width="65%" valign="middle">
       <br/>
       I'm <b>Bhavesh Lakhmani</b>, a B.Tech CSE (AI/ML) student focused on building AI products and continuously learning new programming languages and technologies.<br/><br/>
       My interests span AI, automation, agents, RAG, and voice AI, with a focus on turning ideas into practical software.<br/><br/>
       I believe in a simple philosophy: <b>BUILD → BREAK → LEARN → IMPROVE → SHIP</b>
       <br/><br/>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="assets/avatar.svg" alt="Bhavesh - AI Builder" width="200" />
     </td>
   </tr>
 </table>
