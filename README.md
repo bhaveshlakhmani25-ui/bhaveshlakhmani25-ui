@@ -247,8 +247,8 @@
     <td colspan="3" height="16"></td>
   </tr>
   <tr>
-    <td colspan="3" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=bhaveshlakhmani25-ui&theme=dark&background=11182B&border=26324A&currStreakNum=F4F7FF&currStreakLabel=A7B0C3&sideNums=F4F7FF&sideLabels=A7B0C3&dates=69758C&ring=67E8F9&fire=11182B&stroke=11182B&hide_border=false" alt="GitHub Streak" width="100%" />
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=bhaveshlakhmani25-ui&theme=dark&background=11182B&border=26324A&currStreakNum=F4F7FF&currStreakLabel=A7B0C3&sideNums=F4F7FF&sideLabels=A7B0C3&dates=69758C&ring=67E8F9&fire=11182B&stroke=11182B&hide_border=false" alt="GitHub Streak" width="80%" />
     </td>
   </tr>
 </table>
