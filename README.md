@@ -72,15 +72,14 @@
   <tr>
     <td width="50%">
       <br/>
-      <b><a href="#">Traffic Pulse AI</a></b><br/>
-      [Description pending]<br/><br/>
-      <code>STACK:</code> [Stack pending]<br/>
+      <b>Traffic Pulse AI</b><br/>
+      AI-driven traffic analytics system.<br/><br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
     <td width="50%">
       <br/>
-      <b><a href="#">DentalPlan AI</a></b><br/>
+      <b>DentalPlan AI</b><br/>
       AI treatment-planning copilot concept for dentists.<br/><br/>
       <code>STACK:</code> Python · RAG · React<br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // PROTOTYPE</code>
@@ -90,7 +89,7 @@
   <tr>
     <td width="50%">
       <br/>
-      <b><a href="#">Bharat Beyond</a></b><br/>
+      <b>Bharat Beyond</b><br/>
       AI-powered tourism intelligence and destination balancing.<br/><br/>
       <code>STACK:</code> Supabase · Next.js · Tailwind<br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // SIH PROJECT</code>
@@ -98,9 +97,8 @@
     </td>
     <td width="50%">
       <br/>
-      <b><a href="#">Portfolio</a></b><br/>
-      [Description pending]<br/><br/>
-      <code>STACK:</code> [Stack pending]<br/>
+      <b>Portfolio</b><br/>
+      Personal developer portfolio and AI lab.<br/><br/>
       <img src="assets/status-active.svg" width="10" height="10" /> <code>STATUS // ACTIVE</code>
       <br/><br/>
     </td>
